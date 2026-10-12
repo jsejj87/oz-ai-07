@@ -1,3 +1,2 @@
 # OZ Coding School AI BootCamp
-## Git & GitHub Example
-- Dates: 26. 10. 06 ~ 26. 10. 08
+오즈코딩스쿨 과제를 올리는 저장소입니다.
